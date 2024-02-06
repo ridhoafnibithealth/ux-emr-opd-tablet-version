@@ -7,7 +7,6 @@ An android app built using Kotlin that consumes [Rick and Morty API](https://ric
 ## Table Of Content.
 
 
-- [Demo](#demo)
 - [Prerequisite](#prerequisite)
     - [Disclaimer](##disclaimer)
 - [Architecture](#architecture)
@@ -21,20 +20,6 @@ An android app built using Kotlin that consumes [Rick and Morty API](https://ric
     - [Libraries](##libraries)
     - [Extras](##extras)
 - [Helpful Resources](#helpful-resources)
-
-
-
-## Demo
-These are the app's screenshots and video:
-
-<h5> Note :The App is still Work In Progress and Only the characters module is completed</h5>
-
-
-<img src="https://user-images.githubusercontent.com/17760799/152308718-035778e3-bac5-4124-b7dd-2b2a196cc3bd.jpg" width="250"/> <img src="https://user-images.githubusercontent.com/17760799/152308742-0ec27cbf-0831-43ae-b749-a0e13b523262.jpg" width="250"/> 
-
-<img src="https://user-images.githubusercontent.com/17760799/152308756-b8d82a76-6ab4-43d2-8896-dafee9a5af9a.jpg" width="250"/> <img src="https://user-images.githubusercontent.com/17760799/152308751-784d19af-e272-4b3c-ad3c-6e87e4a0f49e.jpg" width="250"/> 
-
-
 
 
 
@@ -61,8 +46,8 @@ A well planned architecture is extremely important for an app to scale and all a
 
 Clean architecture was proposed by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) in 2012 in the [Clean Code Blog](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) and it follow the SOLID principle.
 
-<p align="center"><img src="assets/architecturecircles.png" alt="Clean Architecture Diagram"></p>
-<p align="center"><img src="assets/architecture.png" alt="Clean Architecture Diagram"></p>
+<p align="center"><img src="doc/architecturecircles.png" alt="Clean Architecture Diagram"></p>
+<p align="center"><img src="doc/architecture.png" alt="Clean Architecture Diagram"></p>
 
 The circles represent different layers of your app. Note that:
 
