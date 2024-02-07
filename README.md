@@ -8,7 +8,7 @@ An android app built using Kotlin it has been built following Clean Architecture
 
 
 - [Prerequisite](#prerequisite)
-    - [Disclaimer](##disclaimer)
+    - [Disclaimer](#disclaimer)
 - [Architecture](#architecture)
     - [What is Clean Architecture](##why-clean-architecture)
     - [Why Clean Architecture](##why-clean-architecture)
