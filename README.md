@@ -1,6 +1,6 @@
 # 2.0 Siloam OPD Tablet Version
 
-An android app built using Kotlin that consumes [Rick and Morty API](https://rickandmortyapi.com) to display characters,episodes,Location from the [TV Series](https://www.imdb.com/title/tt2861424/). It has been built following Clean Architecture Principle, Repository Pattern, MVVM Architecture in the presentation layer as well as Jetpack components(including Jetpack Compose).
+An android app built using Kotlin it has been built following Clean Architecture Principle, Repository Pattern, MVVM Architecture in the presentation layer as well as Jetpack components(including Jetpack Compose).
 
 
 
@@ -20,11 +20,6 @@ An android app built using Kotlin that consumes [Rick and Morty API](https://ric
     - [Libraries](##libraries)
     - [Extras](##extras)
 - [Helpful Resources](#helpful-resources)
-
-
-
-https://user-images.githubusercontent.com/17760799/152310062-89872d22-d06e-4607-abf0-d4cd0d5f23b0.mp4
-
 
 ## Prerequisite.
 
